@@ -1,0 +1,4 @@
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/jasonrig/paypayopa-sdk-golang v0.0.0-20200906063530-726ed9f22e1b h1:0kne+lSF2oQasU62gskNfNGruRqHJ2+VLWFExsJYjqM=
+github.com/jasonrig/paypayopa-sdk-golang v0.0.0-20200906063530-726ed9f22e1b/go.mod h1:UoU4x43vCcjeoYI/Uy/mjPBYzhHpM7LqvE54sK89T/s=
