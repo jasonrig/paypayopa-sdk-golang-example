@@ -1,4 +1,4 @@
-# PayPay Goland SDK example
+# PayPay Golang SDK example
 
 This is a simple example of calling the [PayPay API](https://developer.paypay.ne.jp/) to generate a payment QR code
 using an unofficial [Golang API implementation](https://github.com/jasonrig/paypayopa-sdk-golang).
